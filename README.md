@@ -1,2 +1,2 @@
 # basic-html-template
-basic html5 template
+basic html template
